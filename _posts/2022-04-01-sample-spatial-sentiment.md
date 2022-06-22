@@ -15,4 +15,4 @@ Use hyper-local sentiment data to analyze different areas.
 </iframe>
 
 
-<a href="{{"/" | relative_url}}/data/sentiments1.zip" class="btn btn-info" download>Download</a>
+<a href="{{"/" | relative_url}}/data/sentiments1.zip" class="btn btn-info" download>⬇️ Download</a>
