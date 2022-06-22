@@ -7,7 +7,6 @@ permalink: /terms/
 (last updated: {{site.time}})
 
 <div class="alert alert-dismissible alert-warning">
-  <button type="button" class="close" data-dismiss="alert">&times;</button>
   <h4>Attention</h4>
   <p>These are the license terms & conditions for usage of the demo. Please read carefully & if you do not agree with any of these these terms, stop using this service & contact ``{{site.email}}`` if you have any questions.</p>
 </div>
