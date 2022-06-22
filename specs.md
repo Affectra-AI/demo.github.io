@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data Specifications"
+title: "Specifications"
 permalink: /specs/
 ---
 
