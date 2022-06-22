@@ -2,7 +2,7 @@
 # ABOUT: Jekyll settings to auto generate demo website from this git repository.
 
 # Site settings
-title: Affectra Demo
+title: Demo
 email: info@affectra.ai
 description: > 
   map the vibe anywhere & anytime  

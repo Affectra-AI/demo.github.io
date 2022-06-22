@@ -21,7 +21,11 @@
        </div>
 
       <div class="col-md-4 text-center mt25">
-        {% if site.facebook %}
+        {% if site.linkedin %}
+        <a target="_blank" href="{{site.linkedin}}"
+          ><li class="social linkedin"><i class="fa fa-linkedin"></i></li
+        ></a>
+        {% endif %} {% if site.facebook %}
         <a target="_blank" href="{{site.facebook}}"
           ><li class="social facebook"><i class="fa fa-facebook-square"></i></li
         ></a>
