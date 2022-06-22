@@ -1,19 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# ©2022 Affectra AI
+# ABOUT: Jekyll settings to auto generate demo website from this git repository.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+title: Affectra Demo
+email: info@affectra.ai
+description: > 
+  map the vibe anywhere & anytime  
   
   
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+#url: "http://webjeda.com" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -23,8 +19,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: affectra.ai
+   link: 'http://affectra.ai'
 
 # Build settings
 markdown: kramdown
@@ -44,7 +40,7 @@ facebook: http://facebook.com/
 quora: http://quora.com/
 twitter: http://twitter.com/
 github: http://github.com/
-email: your@email.com
+email: info@affectra.ai
 
 #facebook like box
 fb-like-box: yes
