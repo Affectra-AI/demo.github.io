@@ -5,7 +5,7 @@ date:   2022-04-01
 image: /images/spatial.jpg
 categories: [scores, spatial, sentiment]
 ---
-Use hyper-local sentiment data to analyze different areas.
+Use ``hyper-local`` sentiment data to analyze different areas.
 
 
 <iframe

@@ -8,7 +8,7 @@ permalink: /terms/
 
 <div class="alert alert-dismissible alert-warning">
   <h4>Attention</h4>
-  <p>These are the license terms & conditions for usage of the demo. Please read carefully & if you do not agree with any of these these terms, stop using this service & contact ``{{site.email}}`` if you have any questions.</p>
+  <p>These are the license terms & conditions for usage of the demo. Please read carefully & if you do not agree with any of these these terms, stop using this service & contact <a href="mailto:{{site.email}}">{{site.email}</a> if you have any questions.</p>
 </div>
 
 
