@@ -35,12 +35,6 @@ linkedin: https://www.linkedin.com/company/quantumhood-ai/
 github: https://github.com/Affectra-AI/demo.github.io/discussions
 email: info@affectra.ai
 
-#facebook like box
-#fb-like-box: yes
-#fb-app-id: 549480635219583
-#fb-page-url: https://www.facebook.com/webjeda/
-#fb-page-title: webjeda
-
 # Sass style
 sass:
   style: compressed
