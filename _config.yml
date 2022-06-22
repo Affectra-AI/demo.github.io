@@ -17,7 +17,7 @@ default-image: logo.png # If there is no featured image in a post then this imag
 
 # Footer
 copyright:
-   name: affectra.ai
+   name: Affectra.ai
    link: 'https://affectra.ai'
 
 
