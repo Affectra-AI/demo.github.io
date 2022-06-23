@@ -27,15 +27,18 @@ permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
 
+
 # Tracker
-analytics: UA-83979019-1
+google_analytics: G-QZHNSGNMWB
+
 
 # Social Media
 linkedin: https://www.linkedin.com/company/quantumhood-ai/
 github: https://github.com/Affectra-AI/demo.github.io/discussions
 email: info@affectra.ai
 
-# Sass style
+
+# Sass Style
 sass:
   style: compressed
 
