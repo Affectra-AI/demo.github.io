@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Specifications"
+toc: true
 permalink: /specs/
 ---
 
