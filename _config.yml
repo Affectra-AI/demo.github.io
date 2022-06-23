@@ -1,8 +1,12 @@
 # ©2022 Affectra AI
 # ABOUT: Jekyll settings to auto generate demo website from this git repository.
+# All of these settings are variables available for usee in the auto generation
+# of web pages.
+
 
 # General Settings
-title: Demo
+title: Affectra
+description: demo labs
 email: info@affectra.ai
 
 
