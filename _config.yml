@@ -15,6 +15,7 @@ include:
   - _pages
 exclude:
   - README.md
+  - data
   
 
 #baseurl: "/cards" # the subpath of your site, e.g. /blog
